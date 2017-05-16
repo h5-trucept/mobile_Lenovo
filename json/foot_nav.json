@@ -1,0 +1,49 @@
+{
+    "data": {
+            "huodong": {
+                "iconbig": 0,
+                "name": "",
+                "icon_s": "",
+                "iswork": false,
+                "icon_n": "http://p4.lefile.cn/product/adminweb/2016/11/17/72b1d28e-6139-425a-895f-3b8989943cbe_1.jpg",
+                "link": "http://m.lenovo.com.cn/android/activity/marketing/11.11/index.html"
+            },
+            "skin": [
+              {
+                "icon_s": "http://p3.lefile.cn/product/adminweb/2017/02/10/4ffa4804-fa0d-4784-8d02-4be4a7f0f210_1.png",
+                "icon_n": "http://p3.lefile.cn/product/adminweb/2017/02/10/4138274b-a53f-4dba-8678-f2dbcc3c8c95_1.png",
+                "name": "首页",
+                "n":0
+              },
+                 {
+                    "icon_s": "http://p2.lefile.cn/product/adminweb/2017/02/10/893ff46b-93b0-4baa-ad7d-84856fb57aca_1.png",
+                    "icon_n": "http://p1.lefile.cn/product/adminweb/2017/02/10/5524010f-786a-495b-8e41-dc8b10703ff6_1.png",
+                    "name": "购物车",
+                     "n":2
+                },
+              {
+                "icon_s": "http://p2.lefile.cn/product/adminweb/2017/02/10/e4e4a7a7-830f-4979-9bd5-633152afa0f1_1.png",
+                "icon_n": "http://p1.lefile.cn/product/adminweb/2017/02/10/af071dc3-c6ca-46ad-adbf-151c3c6fa35e_1.png",
+                "name": "分类",
+                "n":1
+              },
+                 {
+                    "icon_s": "http://p2.lefile.cn/product/adminweb/2017/02/10/27eff5a4-444c-45f6-af0d-ca15bb139276_1.png",
+                    "icon_n": "http://p4.lefile.cn/product/adminweb/2017/02/10/5d4218be-6e1d-47b4-9bb6-20165848bdd9_1.png",
+                    "name": "我的",
+                     "n":3
+                }
+
+            ]
+        },
+    "textcolor_n": "#9e9e9e",
+    "backimage": "",
+    "textcolor_s": "#fb35b6",
+    "iswork": true,
+    "iconbig": 0,
+    "backcolor": "#ffffff",
+    "curDatetime": "2017-04-07 15:37:53",
+    "status": 200,
+    "timecost": 0.0010001659393311,
+    "size": 1
+}

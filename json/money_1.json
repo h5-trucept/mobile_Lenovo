@@ -1,0 +1,73 @@
+{
+    "data": [
+        {
+            "marketable": 1,
+            "wap": 4589,
+            "symbol": "¥",
+            "weixin": 4589,
+            "pc": 4599,
+            "app": 4589,
+            "unit": "元",
+            "activity": {},
+            "code": 59137
+        },
+        {
+            "weixin": 5189,
+            "marketable": 0,
+            "code": 59136,
+            "wap": 5189,
+            "app": 5189,
+            "unit": "元",
+            "activity": {},
+            "pc": 5199
+        },
+        {
+            "marketable": 1,
+            "wap": 1389,
+            "symbol": "¥",
+            "weixin": 1399,
+            "pc": 1399,
+            "app": 1389,
+            "unit": "元",
+            "activity": {},
+            "code": 59151
+        },
+        {
+            "marketable": 1,
+            "wap": 1389,
+            "symbol": "¥",
+            "weixin": 1399,
+            "pc": 1399,
+            "app": 1389,
+            "unit": "元",
+            "activity": {},
+            "code": 59152
+        },
+        {
+            "marketable": 1,
+            "wap": 6989,
+            "symbol": "¥",
+            "weixin": 6999,
+            "pc": 6999,
+            "app": 6989,
+            "unit": "元",
+            "activity": {},
+            "code": 59231
+        },
+        {
+            "marketable": 1,
+            "wap": 7489,
+            "symbol": "¥",
+            "weixin": 7499,
+            "pc": 7499,
+            "app": 7489,
+            "unit": "元",
+            "activity": {},
+            "code": 59232
+        }
+    ],
+    "curDatetime": "2017-04-07 15:46:18",
+    "status": 200,
+    "timecost": 0.00099992752075195,
+    "size": 6
+}

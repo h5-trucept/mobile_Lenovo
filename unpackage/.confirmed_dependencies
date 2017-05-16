@@ -1,0 +1,42 @@
+{
+  "index.html": {
+    "resources": [
+      "font-awesome-4.7.0/css/font-awesome.min.css",
+      "css/jquery.mobile-1.4.5.min.css",
+      "js/libs/jquery.mobile-1.4.5.min.js",
+      "img/393c1cd1-9c91-4238-bd3e-dcd480526422_1.w94.png",
+      "img/059c2b57-8fc1-4074-ad75-77f324f305e9_1.w0.jpg",
+      "js/libs/swiper-3.4.2.jquery.min.js",
+      "img/43cd9be6-dcd7-4f9b-9339-1c4b11339ac2_1.w0.jpg",
+      "img/dfad8189-db1a-41ce-8702-b62ea53ec8e7_1.w0.jpg",
+      "img/12970d74-c5b5-4853-9d62-b78ccb8e162a_1.w94.png",
+      "css/index.css",
+      "img/29150a40-5189-4e65-afdf-26e561fab872_1.w94.png",
+      "css/com.css",
+      "img/af788e69-db7b-493c-9caf-72cd44c24022_1.w0.jpg",
+      "img/f2b946ba-cee2-4389-be69-3fea34bac0ca_1.w94.png",
+      "img/39d84a9b-403a-4ead-bdd2-5745c9a58ed2_1.w148.jpg",
+      "js/libs/jquery-2.2.3.js",
+      "img/9792c3ce-9adb-4c60-a3b5-aef0107f35c5_1.w94.png",
+      "img/pc.png",
+      "img/pingban-icon.png",
+      "img/b046a155-04c1-4dcb-bc75-667900daf134_1.w94.png",
+      "img/think.png",
+      "img/lenovoComputer.png",
+      "img/6b8d6f4e-23d8-4ebb-9356-37fb811c11b0.png",
+      "css/swiper-3.4.2.min-1.css",
+      "img/ae0d22a2-db07-4328-ba70-a6bb892a7c30_1.w94.png",
+      "font-awesome-4.7.0/fonts/fontawesome-webfont.woff2",
+      "img/nopro.jpg",
+      "img/service.png",
+      "img/0d62f691-c24e-4558-b467-ddc1a142f884_1.w94.png",
+      "img/712f9cdf-f3f8-4dd9-be54-e98b8f972a55_1.w148.jpg",
+      "img/569d6701-cbcc-47c6-9f36-f069af70c6df_1.w148.jpg",
+      "img/ffb074a5-5771-495e-a8ab-54a171ea8637_1.w0.jpg",
+      "js/index.js",
+      "img/bf301184-f927-485b-992d-7c8c68a6ec3d_1.png",
+      "json/commodity.json",
+      "json/foot_nav.json"
+    ]
+  }
+}
